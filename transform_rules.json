@@ -1,0 +1,5 @@
+[
+  {"action": "select_columns", "columns": ["ID", "FirstName", "Department"]},
+  {"action": "filter_rows", "column": "Department", "operator": "==", "value": "Engineering"},
+  {"action": "rename_column", "old_name": "ID", "new_name": "EmployeeID"}
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 101,
+    "Product": "Laptop",
+    "Category": "Electronics",
+    "Price": 1200,
+    "Stock": 15,
+    "Supplier": "TechSupply Co."
+  },
+  {
+    "ID": 102,
+    "Product": "Mouse",
+    "Category": "Electronics",
+    "Price": 25,
+    "Stock": 150,
+    "Supplier": "AccessoryKing"
+  },
+  {
+    "ID": 103,
+    "Product": "Desk Chair",
+    "Category": "Furniture",
+    "Price": 150,
+    "Stock": 30,
+    "Supplier": "ComfortZone Inc."
+  },
+  {
+    "ID": 104,
+    "Product": "Keyboard",
+    "Category": "Electronics",
+    "Price": 75,
+    "Stock": 70,
+    "Supplier": "TechSupply Co."
+  },
+  {
+    "ID": 105,
+    "Product": "Office Desk",
+    "Category": "Furniture",
+    "Price": 300,
+    "Stock": 10,
+    "Supplier": "ComfortZone Inc."
+  }
+]
