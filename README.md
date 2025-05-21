@@ -151,6 +151,3 @@ More Transformation Types: Could be extended with more operations (e.g., group b
 Streaming for Large Files: For very large files that don't fit in memory, the current approach of loading all data first might be problematic. A streaming approach (processing row by row without loading everything) would be needed.
 
 ---
-download
-Use code with caution.
-IGNORE_WHEN_COPYING_END
